@@ -1,0 +1,8 @@
+if game.PlaceId == 2788229376 then
+--Da Hood Loadstring
+elseif game.PlaceId == 155615604 then
+--Prison Life Loadstring
+else
+setclipboard(https://discord.gg/gfUQGVb5)
+game.Players.LocalPlayer:Kick("Game Not Supported Discord Link Copied To Clipboard, Join The Server To See Supported Games.")
+end
