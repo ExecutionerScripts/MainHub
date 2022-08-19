@@ -3,6 +3,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Piceyhead/Executioner
 elseif game.PlaceId == 155615604 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Piceyhead/ExecutionerX-Prison-Life-/main/Script", true))() --Prison Life Loadstring
 else
---setclipboard(https://discord.gg/gfUQGVb5)
 game.Players.LocalPlayer:Kick("Game Not Supported Discord Link Copied To Clipboard, Join The Server To See Supported Games.")
 end
